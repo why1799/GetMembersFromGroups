@@ -1,0 +1,9 @@
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\bin\Release\GetMembersFromGroups.exe.config
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\bin\Release\GetMembersFromGroups.exe
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\bin\Release\GetMembersFromGroups.pdb
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.GetMembersFromGroups.resources
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.Properties.Resources.resources
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.csproj.GenerateResource.cache
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.csproj.CoreCompileInputs.cache
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.exe
+C:\Users\Tema\source\repos\GetMembersFromGroups\GetMembersFromGroups\obj\Release\GetMembersFromGroups.pdb
